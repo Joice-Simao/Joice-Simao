@@ -1,5 +1,4 @@
 ### Olá! Eu sou a Joice Simão<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-😄 Pronomes: ela/dela/she/her
 
 🌱 Desenvolvedora Full Stack Junior em formação pela Generation Brasil
 
