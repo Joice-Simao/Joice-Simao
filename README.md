@@ -1,23 +1,18 @@
-### Olá! Eu sou a Joice Simão</h2>
+### Olá! Eu sou a Joice 
 
-🌱 Desenvolvedora Full Stack Junior em formação pela Generation Brasil
+Desenvolvedora Full Stack Júnior
 
-<p align="center"><a href="https://i.imgur.com/fuGzTzF.gif"><img align="center" src="https://i.imgur.com/fuGzTzF.gif" title="source: imgur.com"/></a></p>
+<div>
+ <img align="center" src="https://i.imgur.com/fuGzTzF.gif" title="Git Pixel Art Coding Girl"/></a>
+</div>
 
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-![Insomia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
-
-
-
+<img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" title="Java" width='40' height='40'/></a>
+<img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" title="Python" width='40' height='40'/></a>
+<img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" title="MySQL" width='40' height='40'/></a>
+<img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" title="Spring" width='40' height='40'/></a>
+<img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" title="Git" width='40' height='40'/></a>
 
 
-
-#
- ### 💬 Contato
+ ## 💬 Contato
 <a href="https://www.linkedin.com/in/joice-sim%C3%A3o-leite-520496221/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/joice-sim%C3%A3o-leite-520496221/"></a>
-<a href="https://discord.com/users/876857533036363806" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href = "mailto:joice.simao@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
