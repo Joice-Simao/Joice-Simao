@@ -3,9 +3,11 @@
 <div>
  <img align="center" src="https://i.imgur.com/fuGzTzF.gif" title="Git Pixel Art Coding Girl"/></a>
 </div>
-
 <p>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Joice-Simao&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"  /></a>
+<a href="https://gh-stats-gen.vercel.app/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Joice-Simao&theme=radical&hide_border=true" alt="Current Streak" /></a> 
+</p>
+<p>
+<a href="https://gh-stats-gen.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joice-Simao&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Most used languages" /></a>
 </p>
 
 <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" title="Java" width='60' height='60'/></a>
